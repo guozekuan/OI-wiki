@@ -126,3 +126,5 @@ int main() {
 <https://en.wikipedia.org/wiki/Persistent_data_structure>
 
 <https://www.cnblogs.com/zinthos/p/3899565.html>
+
+<https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91>
